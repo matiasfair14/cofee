@@ -1,0 +1,8 @@
+
+.title:before {
+    content: "";
+    width: 73%;
+    height: 3px;
+    background: #ffc300;
+    margin-right: 40px;
+}

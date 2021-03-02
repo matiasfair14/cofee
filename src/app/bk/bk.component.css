@@ -1,0 +1,12 @@
+
+.title:before {
+    content: "";
+    width: 73%;
+    height: 3px;
+    margin-right: 40px;
+    background: #ffbc33;
+    background: -moz-linear-gradient(left, #0066b4 0%, #ed171e 48%, #ffbc33 80%, #ffbc33 100%);
+    background: -webkit-linear-gradient(left, #0066b4 0%,#ed171e 48%,#ffbc33 80%,#ffbc33 100%);
+    background: linear-gradient(to right, #0066b4 0%,#ed171e 48%,#ffbc33 80%,#ffbc33 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0066b4', endColorstr='#ffbc33',GradientType=1 );
+}
